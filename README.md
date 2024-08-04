@@ -18,4 +18,9 @@ Decidi publicá-lo no GitHub não só para manter um registro, mas também para 
 ![GitHub Org's stars](https://img.shields.io/badge/HTML-gray) ![GitHub Org's stars](https://img.shields.io/badge/CSS-blue)
 
 <br>
+
+## Acsso a página
+<a href="https://israelbonicenha.github.io/Pandin-Gelatos/Index.html"> Clique aqui para acessá-la rapidamente </a>
+
+
 <hr>
